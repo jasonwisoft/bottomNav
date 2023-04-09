@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tool_bar">#004e98</color>
+    <color name="background">#f1f3f6</color>
+    <color name="blue_300">#7BAAF7</color><!--ConfigFontSize-->
+    <color name="bottom_nav_bg">#f9f9f9</color><!--BottomNavigationView-->
+
+    <color name="colorPrimary">#232323</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="primary">@color/md_teal_500</color>
+    <color name="primary_dark">@color/md_teal_700</color>
+    <color name="primary_light">@color/md_teal_100</color>
+    <color name="accent">@color/md_deep_orange_500</color>
+    <color name="primary_text">@color/md_grey_900</color>
+    <color name="secondary_text">@color/md_grey_600</color>
+    <color name="icons">@color/md_white_1000</color>
+    <color name="divider">@color/md_grey_400</color>
+    <color name="background_primary">#261D32</color>
+    <color name="button_onclick_Medium_electric_blue">#004e98</color>
+    <color name="button_unclick_white">#ffffff</color>
+    <color name="colorLine">#dfdfdf</color>
+    <color name="light_transparent">#16000000</color>
+    <color name="shimmerColor">#e7e7e7</color>
+    <color name="statusBarColor">#000000</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="red_100">#F4C7C3</color>
+    <color name="red_300">#E67C73</color>
+    <color name="red_500">#DB4437</color>
+    <color name="red_700">#C53929</color>
+    <color name="blue_100">#C6DAFC</color>
+
+    <color name="blue_500">#4285F4</color>
+    <color name="blue_700">#3367D6</color>
+
+    <color name="magnolia_50">#efe5fd</color>
+    <color name="magnolia_100">#d4bff9</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_300">#4DB6AC</color>
+    <color name="toast_custom_info">#3985ce</color>
+    <color name="toast_custom_text_color">#ffffff</color>
+    <color name="drag_drop_color">#f1f3f6</color>
+    <color name="color_gray">#C6B4B4</color>
+    <color name="color_indicatorSeekBar">#dadada</color>
+    <color name="White">#ffff</color>
+    <color name="black">#000000</color>
+</resources>
